@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "leon-kowalski"
+  "defaultProject": "leon-kowalski",
+  "cli": {
+    "analytics": "4df79a49-e306-4268-adfd-bfe277974f28"
+  }
 }
