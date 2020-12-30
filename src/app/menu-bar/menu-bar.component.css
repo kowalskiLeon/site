@@ -1,0 +1,19 @@
+.menubar{
+    background-color: #272727;
+    display: flex;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100vw;
+}
+
+.menufont{
+    color: white;
+    font-family: menu-font;
+    font-size: 56px;
+}
+
+@font-face {
+    font-family: menu-font;
+    src: url("src\assets\fonts\Gobold Hollow.otf");
+  }
